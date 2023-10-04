@@ -13,7 +13,7 @@ Postman is a standalone software testing API (Application Programming Interface)
 
 #### Postman collection run
 
-   <img src="https://github.com/mahin33ferdous/Booking_API_Testing/blob/main/screenshots/collection_Runner.png" style="display: inline-block; margin: 0 auto; width: 400px"/>
+   <img src="https://github.com/mahin33ferdous/Booking_API_Testing/blob/main/screenshots/collection_Runner.png" style="display: inline-block; margin: 0 auto; width: 500px"/>
 
 ### Newman
 
